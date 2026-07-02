@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "private": true,
     "type": "module",
-     "homepage":"https://github.com/RASHD993/ProjectUnivv.git",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
@@ -11,6 +10,7 @@
             "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
     },
+         "homepage":"https://github.com/RASHD993/ProjectUnivv.git",
     "dependencies": {
         "@hookform/resolvers": "^3.10.0",
         "@radix-ui/react-label": "^2.1.3",
