@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "private": true,
     "type": "module",
-     "homepage":"https://github.com/RASHD993/ProjectUniv.git",
+     "homepage":" https://rashd993.github.io/ProjectUnivv/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
